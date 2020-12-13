@@ -1,0 +1,19 @@
+{
+  "name": "sf_npm_array_payva",
+  "version": "1.0.0",
+  "description": "array class for SkillFactory",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vic-pay/sf__npm_array_payva.git"
+  },
+  "author": "victor_paygusov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vic-pay/sf__npm_array_payva/issues"
+  },
+  "homepage": "https://github.com/vic-pay/sf__npm_array_payva#readme",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
